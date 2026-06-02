@@ -1,0 +1,28 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+venv/
+
+# Environment variables
+
+.env
+
+# Chroma vector DB
+
+data/chroma_db/
+
+# macOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log

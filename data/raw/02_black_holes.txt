@@ -1,0 +1,9 @@
+TITLE: Understanding Black Holes
+
+Black holes are often described inaccurately in popular culture. They are not giant vacuum cleaners moving through space consuming everything nearby. If the Sun were replaced by a black hole of identical mass, Earth would continue orbiting normally because gravity depends on mass and distance.
+
+The defining feature of a black hole is the event horizon. Beyond that boundary, escape velocity exceeds the speed of light. Once matter crosses the event horizon, all future paths through spacetime lead inward.
+
+Astronomers rarely observe black holes directly. Instead, they study surrounding effects. Gas falling inward forms an accretion disk that heats to extraordinary temperatures. Nearby stars may orbit invisible massive objects. Some black holes launch jets of energetic particles across enormous distances.
+
+The first image of a black hole shadow represented more than technological achievement. It demonstrated global scientific collaboration. Telescopes distributed across Earth functioned together as a single instrument, effectively creating a planet-sized observatory capable of resolving extraordinary detail.
