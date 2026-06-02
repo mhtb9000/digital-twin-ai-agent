@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Twin of Neil deGrasse Tyson
 
 A Streamlit-based Digital Twin project with:
@@ -55,3 +56,7 @@ streamlit run app.py
 - The RAG layer uses ChromaDB for persistence.
 - The embedding layer uses the Google GenAI SDK.
 - The memory layer stores durable user facts in a separate Chroma collection.
+=======
+# digital-twin-ai-agent
+project for understanding RAG systems
+>>>>>>> 16e55b035e053bcc4adeab1aebbe0d50e1861a8a
